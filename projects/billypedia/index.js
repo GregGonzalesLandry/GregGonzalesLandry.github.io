@@ -8,7 +8,7 @@ $(document).ready(function() {
         $('#quotes:last-child').css('padding-bottom', '4px');
         $('#section-bio p:last-child').remove();
         $('#section-bio').css('color', 'red');
-        $('#section-top-rated').css('color', 'purple');
+        $('#section-top-rated').css('color', 'yellow');
         $('#section-praise').css('color', 'green');
         
         // uncomment this to inspect all available data; delete when done //
